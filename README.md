@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @CaRtmaM
+- 👋 Hi, I’m Nicolas G. Pereira
 - 👀 I’m interested in tecnology , sports , cinema , etc
-- 🌱 I’m currently learning python , golang e c#
+- 🌱 I’m currently learning Python , Ruby , Golang e C#
 
 
 
